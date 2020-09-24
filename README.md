@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hey there! I'm Victor.</h2>
 
-<!--
-**victorjzsun/victorjzsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓 &nbsp; Studying Computer Science at University of Waterloo.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Coop'd at FairVentures as Solutions Developer and Capital One as Data Engineer
+- 🌱 &nbsp; Learning more about backend and embedded systems, and artificial intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | JavaScript | C/C++
+- 🌐 &nbsp; Node.js | REST | GraphQL | gRPC
+- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🔧 &nbsp; Git | Bash | Docker
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://victorjzsun.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-victorjzsun.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/victor-sun-69056416b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Sun-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:victorjsun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-victorjsun@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
