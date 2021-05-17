@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at University of Waterloo.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Coop'd at FairVentures as Solutions Developer and Capital One as Data Engineer
+- 💼 &nbsp; Coop'd at Wish (Infra Engineer), Capital One (Data Engineer) and FairVentures (Solutions Developer)
 - 🌱 &nbsp; Learning more about backend and embedded systems, and artificial intelligence
 
 <h3>🛠 Tech Stack</h3>
