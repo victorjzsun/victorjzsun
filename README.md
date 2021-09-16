@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at University of Waterloo.
+- 🎓 &nbsp; Studying Computer Science at University of Waterloo, expected graduation April 2023
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Coop'd at Wish (Infra Engineer), Capital One (Data Engineer) and FairVentures (Solutions Developer)
+- 💼 &nbsp; Coop'd at Wish (Infrastructure Engineer), Capital One (Data Engineer) and FairVentures (Solutions Developer)
 - 🌱 &nbsp; Learning more about backend and embedded systems, and artificial intelligence
 
 <h3>🛠 Tech Stack</h3>
