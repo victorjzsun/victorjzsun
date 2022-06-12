@@ -4,13 +4,13 @@
 
 - 🎓 &nbsp; Studying Computer Science at University of Waterloo, expected graduation April 2023
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Coop'd at Wish (Infrastructure Engineer), Capital One (Data Engineer) and FairVentures (Solutions Developer)
-- 🌱 &nbsp; Learning more about backend and embedded systems, and artificial intelligence
+- 💼 &nbsp; Coop'd at Amazon, Wish, Capital One and FairVentures
+- 🌱 &nbsp; Learning more about backend and system design, and artificial intelligence
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | C/C++
-- 🌐 &nbsp; Node.js | REST | GraphQL | gRPC
+- 🌐 &nbsp; AWS | GCP
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Bash | Docker
 
