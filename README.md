@@ -2,16 +2,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at University of Waterloo, expected graduation April 2023
+- 🎓 &nbsp; Computer Science at University of Waterloo, graduated April 2023
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Coop'd at Amazon, Wish, Capital One and FairVentures
+- 💼 &nbsp; Working at Amazon as part of Aurora Security team, coop'd at Amazon, Wish, Capital One and FairVentures
 - 🌱 &nbsp; Learning more about backend and system design, and artificial intelligence
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | C/C++
 - 🌐 &nbsp; AWS | GCP
-- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Bash | Docker
 
 <h3> 🤝🏻 Connect with Me </h3>
